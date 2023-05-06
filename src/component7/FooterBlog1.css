@@ -1,0 +1,100 @@
+.footer-blog{
+    background-color: #707070;
+    position: relative;
+    max-width: 100%;
+    height: 100vh;
+    z-index: -1000;
+}
+
+.footer-blog .content-blog{
+    position: relative;
+    top: 50px;
+}
+.footer-blog .content-blog .rectangle{
+    width: 100%;
+    height: 43vw;
+    margin-top: 110px;
+    position: relative;
+}
+.logo1{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-left: 20px;
+
+}
+
+.logo7{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-left: 20px;
+}
+
+.logo6{
+    width: 30%;
+    
+}
+
+.social{
+    background-image: url('../image/Rectangle\ 11.png');
+    background-position: center;
+    border-radius: 200px 0px 0px 0px;
+    display: grid;
+    grid-template-columns: repeat(2 , 1fr);
+    gap: 60px;
+    grid-auto-rows: auto;
+    margin: 0 auto;
+    padding-top:  50px;
+    position: relative;
+}
+
+.social .social-media{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.social .social-media img{
+    width: 40%;
+    margin-left: 200px;
+}
+
+.map{
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
+.map .masaki-map{
+    
+    margin-right: 20px;
+    margin-top: 100px;
+    height: 20vw;
+}
+
+.icon-list{
+    list-style: none;
+    margin-left: 180px;
+    margin-top: 10px;
+
+}
+.para{
+    background-image: url('../image/Rectangle\ 11.png');
+    background-position: center;
+    width: 100%;
+    margin-bottom:100px ;
+    position: absolute;
+    height: 35px;
+}
+.para p{
+    color: #fff;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+
+

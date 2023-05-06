@@ -1,0 +1,53 @@
+.releases {
+    height: 90vh;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    border-radius: 100px 0px 0px 0px;
+    background: url('../image/service.jpg') no-repeat center center/cover;
+
+}
+.releases .content-img{
+    position: absolute;
+    left: 60px;
+    top: -60px;
+    border-radius: 10px ;
+}
+
+.releases .content-img .video{
+   border-radius: 10px;
+}
+
+.releases .repeat-img img{
+    width: 60%;
+    margin-top: 260px;
+    margin-left: 230px;
+}
+
+
+
+@media screen and (max-width:940px) {
+
+    .releases {
+        max-width: 100%;
+    }
+
+    .releases .repeat-img img{
+        margin-right: 200px;
+      }
+}
+
+.section-center{
+  margin: 0 auto;
+  margin-top: 100px;
+}
+
+.section-center .person-img{
+  width: 60%;
+  position: relative;
+  left: 200px;
+  top: 280px;
+}
+
+ 
+  

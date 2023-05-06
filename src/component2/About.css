@@ -1,0 +1,22 @@
+.about-page{
+    text-align: center;
+    color: #222542;
+    position: relative;
+    top: 100px;
+}
+
+.about-page h1{
+    color: #222542;
+    font-size: 80px;
+    font-weight: 800;
+    text-decoration: underline;
+}
+.about-page p{
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30px;
+    word-spacing: 10px;
+    color: #000;
+    position: relative;
+    top: 70px;
+}

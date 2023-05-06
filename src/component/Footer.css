@@ -1,0 +1,194 @@
+
+.footer{
+    background-color: #707070;
+    position: relative;
+    top: 500px;
+    max-width: 100%;
+    height: 100vh;
+}
+
+.footer .content{
+    position: relative;
+    top: 50px;
+}
+.footer .content .rectangle{
+    width: 100%;
+    height: 43vw;
+    margin-top: 110px;
+    position: relative;
+}
+.logo-footer{
+    width: 75%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.logo-footer1{
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-left: 20px;
+    margin-top: 8px; 
+}
+.logo-footer2{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-left: 20px;
+    margin-top: 26px;  
+}
+.logo-footer3{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-left: 20px;
+    margin-top: -29px; 
+}
+.logo-footer4{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-left: 20px;
+    margin-top: -10px; 
+}
+.logo-footer5{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-right: 10px;
+    margin-top: 17px; 
+}
+.logo-footer6{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-left: 20px;
+    margin-top: 2px;  
+}
+.logo-footer7{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-left: 20px;
+    margin-top: 2px;  
+}
+.logo-footer9{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-left: 20px;
+    margin-top: -6px; 
+}
+.logo1{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-left: 20px;
+
+}
+
+.logo7{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-left: 20px;
+}
+
+.logo6{
+    width: 30%;
+    
+}
+
+.social{
+    background-image: url('../image/Rectangle\ 11.png');
+    background-position: center;
+    border-radius: 200px 0px 0px 0px;
+    display: grid;
+    grid-template-columns: repeat(2 , 1fr);
+    gap: 60px;
+    grid-auto-rows: auto;
+    margin: 0 auto;
+    position: relative;
+    top: 15px;
+}
+
+.social .social-media{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.social .social-media img{
+    width: 40%;
+    margin-left: 200px;
+}
+
+.map{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    position: relative;
+    top: -70px;
+}
+.map .masaki-map{
+    
+    margin-right: 20px;
+    margin-top: 100px;
+    height: 20vw;
+}
+
+.icon-list{
+    list-style: none;
+    margin-left: 180px;
+    margin-top: 10px;
+
+}
+.para{
+    background-image: url('../image/Rectangle\ 11.png');
+    background-position: center;
+    width: 100%;
+    margin-bottom:50px ;
+    position: absolute;
+    height: 35px;
+}
+.para p{
+    color: #fff;
+    text-align: center;
+    font-weight: 200;
+    margin-bottom: 100px;
+}
+
+.icon-list li{
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: #fff;
+    border-radius: 50%;
+    cursor: pointer;
+    margin: 5px;
+    font-size: 1px;
+}
+

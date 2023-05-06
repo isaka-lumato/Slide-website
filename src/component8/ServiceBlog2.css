@@ -1,0 +1,38 @@
+
+.service-blog{
+    z-index: 1000;
+}
+.service-content{
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+    z-index: 1000;
+}
+.content-container{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.iframe-review{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.utaniua{
+    color: red;
+}
+.span-content{
+    color: blue;
+}
+.content{ 
+    margin-top: 45px;
+}
+.content img{
+    width: 98%;
+    height: auto;
+}
+a{
+    color: blue;
+
+
+}

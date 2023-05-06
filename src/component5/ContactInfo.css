@@ -1,0 +1,125 @@
+.contact{
+    width: 100%;
+    padding-top: 100px;
+    height: 60vh;
+    background-color: #181E25;
+    margin-top: 60px;
+
+}
+
+.contact-info{
+    margin: 0 auto;
+    padding-top: 30px;
+    height: 70vh;
+}
+.grid2{
+    background-color : rgb(38, 54, 132 , 100);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    top: -14px;
+    height: 70vh;
+    color: #fff;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.cont-list{
+    list-style: none;
+    padding-top: 20px;
+}
+.cont-list li{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.4rem 1rem;
+    font-size: 20px;
+    font-weight: 500;
+    position: relative;
+}
+
+.cont-icon {
+    color: #C500FF;
+    position: absolute;
+    margin-right: 325px;
+    
+}
+
+.field{
+    width: 100%;
+    padding: 1.1rem 1rem;
+    font-size: 1rem;
+    margin-bottom: 20px;
+    transition: .3s;
+    margin-top: 20px;
+    outline: none;
+    border: 1px solid rgb(38, 54, 132 , 100);
+}
+
+.field:hover{
+    background-color: rgb(38, 54, 132 , 0.1);
+}
+.field:focus{
+    background-color: #fff;
+}
+
+.area{
+    min-height: 150px;
+}
+
+.btn{
+    background-color : rgb(38, 54, 132 , 100); 
+    color: #fff;
+    border-radius: 10px;
+    width: 200px;
+    height: 7vh;
+    font-size: 15px;
+    font-weight: 400;
+    border: none;
+    margin-top: 20px;
+    cursor: pointer;
+    position: relative;
+}
+
+
+
+
+
+
+/* label{
+    text-decoration: none;
+    color: #000;
+    font-size: 15px;
+    padding: 50px 10px;
+}
+
+input[type=text] {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000;
+    padding: 1px 100px; 
+}
+textarea{
+    display: inline-block;
+    position: relative;
+    bottom: 50px;
+    
+    
+}
+.btn{
+    background-color : rgb(38, 54, 132 , 100); 
+    color: #fff;
+    border-radius: 10px;
+    width: 200px;
+    height: 7vh;
+    font-size: 15px;
+    font-weight: 400;
+    border: none;
+    margin-top: 50px;
+    cursor: pointer;
+    position: relative;
+    top: 50px;
+    right: 200px;
+} */

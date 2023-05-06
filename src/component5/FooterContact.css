@@ -1,0 +1,108 @@
+.footer-new{
+    background-color: #707070;
+    position: relative;
+    top: 350px;
+    max-width: 100%;
+    height: 100vh;
+}
+
+.footer-new .content-new{
+    position: relative;
+    top: 50px;
+}
+.footer-new .content-new .rectangle{
+    width: 100%;
+    height: 43vw;
+    margin-top: 110px;
+    position: relative;
+}
+.logo1{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-left: 20px;
+
+}
+
+.logo6{
+    width: 30%;
+}
+
+.logo7{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-left: 20px;
+}
+
+.para{
+    background-image: url('../image/Rectangle\ 11.png');
+    background-position: center;
+    width: 100%;
+    margin-bottom:100px ;
+    position: absolute;
+    height: 35px;
+}
+.para p{
+    color: #fff;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.social{
+    background-image: url('../image/Rectangle\ 11.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    border-radius: 200px 0px 0px 0px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 100px;
+    height: auto;
+}
+
+.social .social-media{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.social .social-media img{
+    width: 40%;
+    margin-left: 200px;
+}
+
+.map{
+    width: 100%;
+    height: auto;
+}
+.map .masaki-map{
+    border-radius: 10px;
+    margin-right: 20px;
+    margin-top: 100px;
+    height: 20vw;
+}
+
+.icon-list{
+    list-style: none;
+    margin-left: 180px;
+    margin-top: 10px;
+
+}
+
+.icon-list li{
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: #fff;
+    border-radius: 50%;
+    cursor: pointer;
+    margin: 5px;
+    font-size: 1px;
+}
+

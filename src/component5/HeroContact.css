@@ -1,0 +1,52 @@
+.heroContact {
+  height: 100vh;
+  width: 100%;
+  position: relative;
+}
+
+.heroContact:before {
+  content: "";
+  background: url("../image/phone.png") no-repeat center center/cover;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  border-radius: 0px 0px 0px 100px;
+}
+.contentContact{
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 100px;
+  font-size: 150px;
+  font-weight: bolder;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  opacity: 60%;
+}
+
+@-webkit-keyframes slide {
+  0%   { transform: translate(0px,100px); }
+  100% { transform: translate(0px,0px); }
+}
+@-moz-keyframes slide {
+  0%   { transform: translate(0px,100px); }
+  100% { transform: translate(0px,0px); }
+}
+@-o-keyframes slide {
+  0%   { transform: translate(0px,100px); }
+  100% { transform: translate(0px,0px); }
+}
+@keyframes slide {
+  0%   { transform: translate(0px,100px); }
+  100% { transform: translate(0px,0px); }
+}
+.contentContact{
+  animation-name: slide;
+  animation-duration: 5s; 
+  animation-fill-mode: forwards;
+}
